@@ -1,0 +1,6 @@
+A(char)
+A(int,double)
+A(double,int,int)
+A(char)
+A(double,int,int)
+A(int,double)
